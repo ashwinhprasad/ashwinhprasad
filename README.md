@@ -11,5 +11,9 @@ Currently working on Machine Learning and Deep Learning :rocket:
 - [Sentiment Analysis](https://medium.com/analytics-vidhya/sentiment-analysis-for-movie-reviews-791be2a58297)
 - [Chatbot with TensorFlow 2](https://medium.com/analytics-vidhya/chatbot-with-tensorflow-2-0-going-merry-2f79284a6104)
 
+## My Favourite Projects
+- [Carpe Diem chatbot for handling customer queries and reservation system](https://github.com/ashwinhprasad/CarpeDiem-Chatbot-For-Restaurant-Reservation-System)
+
+
 ### Connect with me
 [<img width="20px" height="20px" align="bottom" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />](https://www.linkedin.com/in/ashwin-prasad-aa53441a7/)   [<img width="20px" height="20px" align="bottom" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.instagram.com/ashwinhprasad/)
