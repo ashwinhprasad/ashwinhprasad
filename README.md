@@ -13,6 +13,7 @@ Currently working on Machine Learning and Deep Learning :rocket:
 
 ## My Favourite Projects
 - [Carpe Diem chatbot for handling customer queries and reservation system](https://github.com/ashwinhprasad/CarpeDiem-Chatbot-For-Restaurant-Reservation-System)
+- [Railway Reservation System with MERN Stack and Redux](https://github.com/ashwinhprasad/Railway-Management-MERN)
 
 
 ### Connect with me
