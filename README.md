@@ -1,7 +1,7 @@
 ### Hi there , This is AshwinPrasad !!
 
 I study at Rajalakshmi Engineering College :school: \
-Currently working on Machine Learning and Deep Learning :rocket:
+working on Machine Learning, Data Science and AI :rocket:
 
 ## Some of the Blogs I have Published
 - [How Anomaly Detection Works](https://medium.com/analytics-vidhya/how-anomaly-detection-works-4651f1786431)
@@ -17,4 +17,4 @@ Currently working on Machine Learning and Deep Learning :rocket:
 
 
 ### Connect with me
-[<img width="20px" height="20px" align="bottom" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />](https://www.linkedin.com/in/ashwin-prasad-aa53441a7/)   [<img width="20px" height="20px" align="bottom" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.instagram.com/ashwinhprasad/)
+[<img width="20px" height="20px" align="bottom" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />](https://www.instagram.com/ashwinhprasad/) [<img width="20px" height="20px" align="bottom" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/ashwin-prasad-aa53441a7/)
