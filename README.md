@@ -15,6 +15,9 @@ working on Machine Learning, Data Science and AI :rocket:
 - [Carpe Diem chatbot for handling customer queries and reservation system](https://github.com/ashwinhprasad/CarpeDiem-Chatbot-For-Restaurant-Reservation-System)
 - [Railway Reservation System with MERN Stack and Redux](https://github.com/ashwinhprasad/Railway-Management-MERN)
 
+## Favourite Languages
+Currently , my Favourite Languages are Python, Javascript and Julia. I also Like C and C++ in some aspects
+
 
 ### Connect with me
 [<img width="20px" height="20px" align="bottom" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />](https://www.instagram.com/ashwinhprasad/) [<img width="20px" height="20px" align="bottom" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/ashwin-prasad-aa53441a7/)
