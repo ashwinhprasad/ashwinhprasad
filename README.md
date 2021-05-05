@@ -14,6 +14,15 @@ working on Machine Learning, Data Science and AI :rocket:
 ## My Favourite Projects
 - [Carpe Diem chatbot for handling customer queries and reservation system](https://github.com/ashwinhprasad/CarpeDiem-Chatbot-For-Restaurant-Reservation-System)
 - [Railway Reservation System with MERN Stack and Redux](https://github.com/ashwinhprasad/Railway-Management-MERN)
+- [Data Analysis on Suicide Data](https://github.com/ashwinhprasad/Suicide-DataAnalysis)
+
+## Experienced With
+- Pytorch
+- Tensorflow
+- Django and Django Rest Framework
+- Flask
+- React
+
 
 ## Favourite Languages
 Currently , my Favourite Languages are Python, Javascript and Julia. I also Like C and C++ in some aspects
