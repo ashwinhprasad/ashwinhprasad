@@ -15,6 +15,7 @@ working on Machine Learning, Data Science and AI :rocket:
 - [Carpe Diem chatbot for handling customer queries and reservation system](https://github.com/ashwinhprasad/CarpeDiem-Chatbot-For-Restaurant-Reservation-System)
 - [Railway Reservation System with MERN Stack and Redux](https://github.com/ashwinhprasad/Railway-Management-MERN)
 - [Data Analysis on Suicide Data](https://github.com/ashwinhprasad/Suicide-DataAnalysis)
+- [Anime Recommender System](https://github.com/ashwinhprasad/Anime-Recommender-System)
 
 ## Experienced With
 - Pytorch
