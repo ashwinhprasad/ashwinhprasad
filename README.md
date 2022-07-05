@@ -1,7 +1,7 @@
 ### Hi there , This is AshwinPrasad !!
 
 I study at Rajalakshmi Engineering College :school: \
-working on Machine Learning, Data Science and AI :rocket:
+working on Computer Science and Data Science :rocket:
 
 ## Some of the Blogs I have Published
 - [How Anomaly Detection Works](https://medium.com/analytics-vidhya/how-anomaly-detection-works-4651f1786431)
